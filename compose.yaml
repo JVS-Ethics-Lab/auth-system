@@ -5,3 +5,9 @@
       context: .
       dockerfile: auth-system/Dockerfile
 
+  auth-system-1:
+    image: auth-system-1
+    build:
+      context: .
+      dockerfile: auth-system/Dockerfile
+
